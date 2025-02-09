@@ -1,0 +1,241 @@
+Otomado Privacy Policy
+
+1. Introduction
+
+Otomado provides a new experience where users share the “trace of human activity” and connect with people around the world. In this App, users can share ambient and everyday sounds from their surroundings in real time and listen to audio broadcast by other users, thereby creating a space where the presence of people can be felt.
+
+Our development team prioritizes user privacy, promising to limit data collection to the minimum necessary and protect it under a strict management system. This Privacy Policy clearly explains the information collected by the App, its purposes, the methods of data handling, and the rights of users, in order to provide an environment in which users can use the service with confidence.
+
+This Policy is formulated based on the following legal frameworks:
+– EU General Data Protection Regulation (GDPR)
+– California Consumer Privacy Act (CCPA)
+– Japan’s Act on the Protection of Personal Information (APPI)
+– Other data protection laws applicable in the countries/regions where the App is provided
+
+In addition, the App uses Google services such as Firebase and Google AdMob, and information collected through these services is managed in accordance with Google’s Privacy and Security policies (https://firebase.google.com/support/privacy and https://policies.google.com/privacy).
+
+This Privacy Policy will be updated from time to time in accordance with changes in laws or service content. When updated, users will be notified within the App and, if necessary, by other appropriate means.
+
+2. Types and Reasons for Information Collected
+
+The App collects the following information for the purposes of providing and improving the service.
+
+(a) User Authentication Information
+The App allows users to sign in for authentication and account identification by one of the following methods:
+ • Authentication using an email address and password
+ • Authentication using a Google account
+
+Upon successful authentication, the App collects and records only the email address and does not collect the Google account’s name, profile image, or Google UID. Although technically these details can be retrieved when using Google authentication, the App intentionally does not collect or store them, and uses only the information necessary for service provision.
+
+In addition, authentication information is used solely for the purpose of identifying the user account and ensuring secure in-App communication, and is not provided to third parties or used for inappropriate purposes.
+
+(b) Country Information
+When sharing audio, the App records the country code selected by the user and displays it to listeners. Although the App may obtain regional information based on the device’s language settings when a user selects a country, only the finally selected country code is sent to the server, and no other location information is collected or stored.
+
+(c) Self-Introduction Text
+The App records a self-introduction text that the user optionally enters as profile information. Users may choose not to enter a self-introduction text.
+
+(d) Device Time Zone
+When sharing audio, the App automatically obtains the device’s time zone information and uses it to display the broadcaster’s local time to listeners.
+
+(e) Total Streaming and Hearing Time
+The App records the total time a user spends streaming and hearing, and uses this information for the user to check their own activity history as well as for service improvement.
+
+(f) Audio Data
+For smooth and healthy audio sharing, the App temporarily stores the shared audio data on its server. The retention period is approximately one day, after which the data is automatically deleted.
+
+(g) Inappropriate Audio Report Information
+To maintain the health of the service, the App records the number and details of reports regarding inappropriate audio and uses this information to verify any violations of the Terms of Service.
+
+(h) Account Suspension Information
+To ensure community safety, the App records the email addresses of accounts that have been suspended.
+
+(i) Inquiry Information
+For user support purposes, the App records inquiry details, the time of submission, and the sender’s email address.
+
+(j) App Usage and Crash Information
+ • Firebase Analytics: Collected to analyze App usage and user behavior for the purpose of improving the App (only non-personally identifiable data is collected).
+ • Firebase Crashlytics: Records information on App crashes and errors to help identify and resolve issues (collects error logs and device information that cause crashes, but does not include data that can personally identify users).
+
+(k) Advertising-Related Information (AdMob)
+The App displays advertisements using the Google AdMob ad delivery system. For the optimization and personalization of ads, Google AdMob may collect the following information:
+ • Advertising identifier (Advertising ID)
+ • Device information (such as OS type, model, IP address, etc.)
+ • App usage (such as the number of ad impressions and click history)
+
+For details on advertising-related data, please refer to Google’s Privacy Policy (https://policies.google.com/privacy).
+
+3. Use of the Collected Information
+
+The information collected as described in Section 2 is used for the following purposes:
+
+(a) User Authentication and Account Management
+ • To authenticate users and manage their accounts securely using their email addresses.
+ • To prevent unauthorized use and ensure secure in-App communication.
+
+(b) Providing Regional and Profile Information to Listeners
+ • When sharing audio, to display the broadcaster’s basic information (including the selected country code, self-introduction text, and time zone information) to listeners.
+
+(c) Recording and Analysis of App Usage
+ • To record the total streaming and hearing time so that users can check their own activity history and for the purpose of service improvement.
+ • To analyze App usage trends in a non-personally identifiable manner using Firebase Analytics.
+
+(d) Provision of Audio Sharing Functionality
+ • To temporarily store shared audio data to ensure smooth audio sharing.
+ • The data is retained for approximately one day and is then automatically deleted.
+ • If inappropriate audio is reported, the data may be temporarily referenced to verify violations of the Terms of Service.
+
+(e) Prevention of Inappropriate Use and Ensuring Community Safety
+ • To record information regarding reports of inappropriate audio and account suspensions, and to use it to take appropriate actions and prevent recurrence.
+
+(f) User Support
+ • To record inquiry details and use them for support responses and service improvement.
+
+(g) Delivery and Optimization of Advertisements
+ • For the delivery, optimization, and personalization of advertisements by Google AdMob, the relevant information (such as the advertising identifier, device information, and usage data) is automatically collected by Google.
+ • All users, including those residing in California, can opt out of ad personalization via Google’s ad settings page (https://adssettings.google.com/).
+
+(h) Improvement of App Stability
+ • To collect and analyze App usage and crash information using Firebase Analytics and Firebase Crashlytics to enhance stability (data is collected in a non-personally identifiable manner).
+
+4. Provision of Information to Third Parties and Overseas Data Transfer
+
+The App will provide collected information to third parties and transfer data overseas only in the following cases:
+
+(a) Provision of Information to Google LLC (Firebase)
+ • The App uses Firebase for data storage, processing, and analysis.
+ • Data from users, including those in the European Economic Area (EEA), may be transferred to Google’s data centers (primarily in the United States).
+ • In such cases, Google implements appropriate safeguards, such as the Standard Contractual Clauses (SCCs) approved by the European Commission, to provide adequate protection under the GDPR.
+ • Affected services include: Firebase Authentication, Firestore Database, Firebase Storage, Cloud Functions, App Check, Firebase Analytics, Firebase Crashlytics, and Firebase In-App Messaging.
+ • For further details regarding Firebase’s privacy and security, please refer to: https://firebase.google.com/support/privacy
+
+(b) Provision of Information to Google LLC (AdMob)
+ • The App uses Google AdMob to deliver advertisements.
+ • For ad optimization and personalization, information such as the advertising identifier, device information, and usage data is automatically collected by Google.
+ • This data may be processed and stored in Google’s data centers (primarily in the United States).
+ • In such cases, Google implements appropriate safeguards, such as the Standard Contractual Clauses (SCCs) approved by the European Commission, to provide adequate protection under the GDPR.
+ • Users can change their ad personalization settings (opt out) via https://adssettings.google.com/.
+ • For further details, please refer to Google’s Privacy Policy (https://policies.google.com/privacy).
+
+(c) Provision of Information to Zoho Corporation (Inquiry Management)
+ • The App uses Zoho Mail (provided by Zoho Corporation) for handling inquiries.
+ • Inquiry details submitted by users are received by our support team in Japan, and during this process, email data may be processed and stored in Zoho Mail’s overseas data centers.
+ • Zoho Corporation implements appropriate safeguards, such as the Standard Contractual Clauses (SCCs) approved by the European Commission, and complies with data protection laws including the GDPR.
+ • For further details, please refer to Zoho Corporation’s Privacy Policy (https://www.zoho.com/privacy.html).
+
+(d) Provision of Information Based on Legal Obligations
+If disclosure of information is required by law or if it is deemed necessary to protect the safety of users, the App may provide the minimum amount of information necessary based on a legitimate legal reason.
+
+5. Data Retention and Deletion
+
+(a) User Authentication Information (Email Address)
+ • Managed via Firebase Authentication and retained for as long as necessary for providing the service.
+ • If the user deletes their account, the information is deleted immediately.
+ • If account suspension information exists, it may be retained for a certain period as necessary.
+
+(b) Data Stored in Firestore
+ • Country codes, self-introduction texts, total streaming and hearing time, and device time zone information are deleted upon account deletion.
+ • Inappropriate audio report information is retained for up to one year and then deleted.
+ • Account suspension information is retained for a certain period to prevent unauthorized use and then deleted.
+ • Inquiry details are retained for up to one year after support responses are completed, and then deleted.
+
+(c) Audio Data Stored in Firebase Storage
+ • Audio data is stored during streaming and is automatically deleted approximately one day after streaming ends.
+
+(d) Data Collected by Firebase Analytics and Crashlytics
+ • Data is collected in a non-personally identifiable manner and retained in accordance with Google’s policies.
+ • For further details, please refer to Google’s Privacy Policy.
+
+(e) Advertising Data (Google AdMob)
+ • Google AdMob independently collects and retains advertising data for the purposes of ad optimization and personalization.
+ • The App does not directly manage AdMob data.
+ • For further details, please refer to Google’s Privacy Policy.
+
+(f) Data Retention Based on Legal Obligations
+ • In accordance with legal requirements, certain data may be retained for a specified period.
+ • In such cases, the data will be retained only for the period required by law and will be deleted thereafter.
+
+6. Handling of Personal Information for Users Under 16
+
+The App is intended for users who are 16 years of age or older. If it is confirmed that a user under 16 has registered, the App will promptly delete the account and related information. If information is mistakenly collected from a user under 16, appropriate measures will be taken to promptly delete the information.
+
+7. User Rights
+
+Users have the following rights regarding their personal information, which may be exercised in accordance with applicable laws such as the GDPR, CCPA, and Japan’s Act on the Protection of Personal Information.
+
+(a) Right of Access (Viewing Data)
+ • Users have the right to request access to the personal information collected and stored about them.
+ • For data access requests, please contact support.
+
+(b) Right to Rectification (Correction of Data)
+ • If any personal information recorded in the App is incorrect, users have the right to request its correction.
+ • Email addresses, self-introduction texts, and country information can be corrected via the account menu in the App.
+
+(c) Right to Deletion (Erasure of Data)
+ • Users have the right to request deletion of their personal information.
+ • Deleting an account will result in the immediate deletion of the email address, country code, self-introduction text, and other personal information.
+ • Audio data is automatically deleted within a maximum of one day.
+ • Inappropriate audio reports, account suspension information, inquiry histories, etc., may be retained for a certain period.
+
+(d) Right to Restrict Processing (Limitation on Data Use)
+ • Users have the right to request restrictions on the processing of certain data.
+ • To disable ad personalization, please change your settings at https://adssettings.google.com/.
+
+(e) Right to Data Portability (Export of Data)
+ • Users have the right to receive their data collected by the App in a commonly used electronic format.
+ • If you wish to export your data, please contact support.
+
+(f) Right to Object
+ • Users have the right to object to the processing of their personal information by the App.
+ • Users also have the right to lodge a complaint with the data protection supervisory authorities in their respective countries.
+
+(g) Procedure for Exercising User Rights
+ • Please contact us via the in-App contact form or at support@otomado.com.
+ • Additional information may be requested for identity verification purposes.
+ • In principle, responses will be provided within 30 days.
+
+8. Security Measures
+
+The App implements the following security measures to protect users’ personal information:
+
+(a) Access Restrictions
+ • The App uses Firebase to ensure that only authenticated users can access the data.
+ • App Check is implemented to permit access only from the legitimate App.
+ • Access to administrator accounts is strictly controlled.
+
+(b) Data Encryption
+ • Data is encrypted during transmission (using SSL/TLS) and while stored (in Firebase Firestore and Storage).
+ • All information, including audio data, is protected within an encrypted environment.
+
+(c) Security Measures for User Accounts
+ • When using Google authentication, the App relies on Google’s security features (such as two-factor authentication and login notifications).
+ • When using email and password authentication, users are advised to set strong passwords and change them regularly.
+
+(d) Response to Data Breaches
+ • In the event of a data breach, the App will promptly investigate the cause and determine the scope of the impact, and, if necessary, notify the relevant authorities and affected users.
+ • Measures to prevent recurrence will be implemented, and security measures will be strengthened.
+
+(e) Continuous Security Improvement
+ • Regular evaluations of security risks are conducted, and necessary measures are updated.
+ • Security audits by external experts may be performed when necessary.
+
+(f) User Awareness
+ • Users are encouraged to set strong passwords, remain cautious of phishing scams, and promptly report any suspicious activity.
+
+(g) Risk Acknowledgment
+ • Internet communications cannot guarantee complete security; users are asked to understand this limitation.
+
+9. Updates to the Privacy Policy
+
+This Privacy Policy will be updated from time to time in accordance with changes in laws or revisions to the service content. When updates are made, users will be notified within the App or by other appropriate means. The updated Policy will apply from the date it is published.
+
+10. Contact Information
+
+For any questions, comments, or inquiries regarding this Privacy Policy or the handling of user information, please contact us via the in-App contact form or at the following email address:
+
+[Support Email Address: support@otomado.com]
+
+11. Effective Date and Revision Date
+
+Effective Date: November 16, 2024
+Last Revised: February 6, 2025

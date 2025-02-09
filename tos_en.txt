@@ -1,0 +1,408 @@
+Otomado Terms of Service
+
+1. Introduction
+
+These Terms of Service (hereinafter “the Terms”) set forth the conditions for using Otomado (hereinafter “the App”). The App aims to provide an experience in which users can share the “trace of human activity” through the App and feel connected with people around the world. Through the App, users can record ambient or everyday sounds from their surroundings in real time and share them, as well as receive and listen to audio broadcast by other users, thereby enjoying an environment in which they can sense the presence of others from afar.
+
+By commencing use of the App, the user is deemed to have agreed to these Terms. If you do not agree to these Terms, please immediately cease using the App. Please note that the Operator may change these Terms without notice. We recommend that you review the latest version of the Terms regularly.
+
+Additionally, users residing in the following regions should also review the supplementary clauses set forth at the end of these Terms:
+– EU, EFTA countries, or the United Kingdom
+– United States
+– Canada
+– Japan
+– South Korea
+– India
+– Brazil
+– Other countries/regions
+
+The provider of the App (hereinafter “the Operator”) grants the user a limited, non-exclusive, non-transferable license to use the App for personal and non-commercial purposes in accordance with these Terms. Users may use the App only within the scope of these Terms and the applicable laws.
+
+If any part or all of these Terms conflicts with mandatory provisions of the laws of the region in which the user resides, the relevant provisions shall be governed by the laws of that region, while the remaining provisions shall continue to remain in full force.
+
+2. Definitions
+
+(1) User
+Refers to any individual who uses the App. Specifically, this includes those who register an account to use the App as well as those who install the App and access its features.
+
+(2) The App
+Refers to “Otomado,” a mobile application that enables users to share audio in real time and receive audio broadcast by other users.
+
+(3) Service
+Refers to the functionality and all related services provided by the App that allow users to record and share the sounds from their surroundings and to receive and listen to audio shared by other users.
+
+(4) Account
+Refers to the registration and identification information required for a user to access the App and use all its services. However, some features of the App (for example, the ability to listen to audio broadcast by other users) may not necessarily require the creation of an account.
+
+(5) Content
+Refers to all types of data (such as audio data, text information, etc.) that users upload, share, or view through the App.
+
+(6) Inappropriate Content
+Refers to audio, text, or other content that contradicts the purpose of the App or is deemed socially inappropriate. This includes content that is violent, discriminatory, insulting, or that violates laws and regulations.
+
+(7) Suspension Measures
+Refers to temporary or permanent restrictions imposed on a user's account by the Operator in the event of a violation of these Terms.
+
+(8) Third Parties
+Refers to all individuals or entities other than the user and the Operator of the App. This includes external service providers through which information may be shared or provided via the App.
+
+3. Description of the Services Provided
+
+(1) Sharing and Receiving Audio
+The App provides a feature that allows users to record audio in real time and share it with other users. Users can record sounds from their surroundings and share them via the App, and can receive and listen to audio shared by other users in real time. This enables them to feel connected with people around the world. Please note that the audio sharing in the App is one-way and is not a voice call function.
+
+(2) Account Management Functions
+The App allows users to sign in using an email address or a Google account and to manage their account information. For example, users can display their profile—including a self-introduction and country information—to other users when sharing audio; this information can be edited or deleted within the App. The handling of privacy and account management is governed by the separate “Otomado Privacy Policy.”
+
+(3) Usage Environment
+To use the App, an Android device that supports Google Play Services and has an OS version of Android 8.0 or higher is required. An internet connection is also essential. If signing in with a Google account, the device must have a Google account configured. Additionally, for audio recording, the device must have a built-in microphone and permission to access the recording function. When sharing or listening to audio, the App may request permission to notify the user that recording or listening is in progress.
+
+(4) Service Charges
+The services provided by the App are generally available free of charge. However, should paid options or additional features be introduced in the future, the Operator will, in accordance with applicable consumer protection laws, clearly provide the user with information regarding the service details, fees, payment conditions, cancellation procedures, and the right of withdrawal (cooling-off period) in a manner that is easy to understand in advance. In the case of consumer contracts, users typically have a 14-day withdrawal period (which may vary depending on the region), and the withdrawal of the contract can be carried out in accordance with the procedures specified separately by the Operator.
+
+4. User Obligations
+
+(1) Lawful and Good Faith Use
+When using the App, users are responsible for complying with all applicable laws and regulations and for respecting the rights of other users and third parties. Users must not use the App for illicit purposes and must use it in good faith with respect to the Operator and other users.
+
+(2) Prohibition of Fraudulent or Harassing Behavior
+When using the App, users must not engage in the following activities:
+ – Illegally obtaining, using, or disclosing other users’ accounts or personal information;
+ – Harassing, threatening, or making discriminatory remarks or actions toward other users;
+ – Disrupting the normal operation of the App’s services or interfering with the use by other users.
+
+(3) Proper Management of Audio Content
+Users are responsible for ensuring that the audio content they share does not infringe upon the intellectual property rights or privacy rights of third parties. Users should be mindful of the privacy of those around them, and if the content includes conversations or personal information of third parties, they must obtain the necessary consent before sharing. In the event that any complaints or claims arise, users are responsible for resolving the matter at their own expense.
+
+(4) Protection of Account Information
+Users are responsible for securely managing their account information and preventing unauthorized use by third parties. If unauthorized use of the account is suspected, the user should immediately report it to the Operator. The Operator shall not be liable for any damages resulting from unauthorized use of an account.
+
+5. Prohibition of Use by Individuals Under 16 Years of Age
+
+This App is intended for users who are 16 years of age or older, in order to maintain a healthy usage environment and comply with the laws protecting minors in various countries. Use by individuals under 16 years of age is strictly prohibited, and users must confirm that they are 16 years or older before beginning use. If it is determined that a user is under 16, or if false information is provided during age verification, the Operator may take measures such as deleting the account. The Operator conducts a simple age verification at the start of use to ensure compliance with the age requirement.
+
+6. Account Management
+
+(1) Creation of an Account
+Users may create an account using an email address or a Google account configured on their device. By creating an account, users gain access to all features of the App, including audio sharing. At the time of registration, the email address (or the email address associated with the Google account, if used) is recorded.
+
+(2) Security Management of the Account
+Users are responsible for appropriately managing their account information and ensuring that their email address or Google account information is not used fraudulently by third parties. If unauthorized access or use is suspected, users should immediately contact the support team. The Operator shall not be liable for any damages resulting from the leakage of account information.
+
+(3) Responsibility for the Account
+Users are responsible for all actions performed through their account (including audio sharing and profile editing). Transferring or lending an account is prohibited.
+
+(4) Suspension and Deletion of the Account
+The Operator reserves the right to suspend or delete a user's account if it is deemed to be in violation of these Terms or if it interferes with the operation of the service. While an account is suspended, some or all of the App’s functions may become unavailable. If a user chooses to delete their account, it can be done through the in-app settings. Please note that once an account or data is deleted, it cannot be restored in principle.
+
+(5) Handling of Account Information
+Account information is managed appropriately in accordance with the “Otomado Privacy Policy.” Information will not be provided to third parties without the user’s consent, except in cases where there is a legal obligation or with the user’s consent.
+
+(6) Restrictions on Account Usage
+If a user engages in any of the following activities, the Operator may impose temporary or permanent restrictions on the user’s account:
+ – Actions that violate these Terms or any applicable laws;
+ – Harassing behavior toward other users or the Operator;
+ – Using the service through fraudulent means;
+ – Actions that interfere with the normal operation of the App.
+
+7. Intellectual Property Rights
+
+(1) Intellectual Property Rights of the App and License for Use
+Copyrights, trademarks, patents, and other intellectual property rights relating to the App and its content belong to the Operator or to third parties who hold valid rights. The Operator grants the user a limited, non-exclusive, non-transferable, and non-sublicensable license to use the App for personal and non-commercial purposes. The user must not reproduce, distribute, publish, modify, or use the content of the App for commercial purposes without prior written permission from the Operator.
+
+(2) Intellectual Property Rights of User-Submitted Content
+The intellectual property rights in the audio and other content that users record and share through the App generally belong to the user. However, by using the App, users grant the Operator a royalty-free, non-exclusive license to use (including reproduce, modify, and display) such content to the extent necessary for operating and improving the App.
+
+(3) Prohibition of Infringing Third-Party Rights
+Users must not infringe upon the intellectual property rights or privacy rights (such as copyrights or trademarks) of others. In the event of any dispute arising from an alleged infringement of a third party’s rights, the Operator shall not be held liable, and the user shall resolve the matter at their own expense and responsibility.
+
+(4) Procedure for Claiming Infringement of Rights
+If a user’s submission is believed to infringe on a third party’s copyrights, trademarks, or other rights, the rights holder may contact the Operator via the in-app contact form or at support@otomado.com. The Operator will verify the facts and, if necessary, take measures such as deleting the content or suspending the account.
+
+(5) Protection of Intellectual Property Rights
+The Operator will appropriately manage the intellectual property rights related to the content and services of the App and strive to prevent unauthorized use. If unauthorized use is confirmed, the Operator reserves the right to take necessary actions, including legal measures.
+
+8. Privacy and Data Handling
+
+The handling of personal and user information in the App is managed in accordance with the separate “Otomado Privacy Policy.” The Operator strictly adheres to the privacy protection laws of the country or region in which the user resides (e.g., the EU’s GDPR, CCPA, Japan’s Act on the Protection of Personal Information, etc.) and takes necessary and appropriate security measures for the collection, use, storage, and provision to third parties of personal information, and clearly specifies in the Privacy Policy the purposes, retention period, and provision to third parties. If use beyond what is specified in the Privacy Policy is required, explicit consent from the user will be obtained in advance.
+
+Additionally, the App may use Google AdMob to deliver advertisements. By using the App, the user agrees that advertising identifiers (Advertising ID), device information, usage data, and other similar information may be automatically collected and used. The handling of this information is managed in accordance with the Privacy Policy, and users may opt out of personalized advertising by visiting https://adssettings.google.com/.
+
+The audio data and other information shared by the user through the App are used solely for the purpose of connecting with the world through audio sharing, and will be deleted after the retention period specified by the Operator. Except in cases of legal requirements for disclosure or with the user’s consent, such data will not be provided to third parties. For details, please refer to the “Otomado Privacy Policy.”
+
+9. Prohibited Conduct
+
+Users must not engage in the following activities when using the Service. If any such conduct is confirmed, the Operator reserves the right to suspend the user’s account temporarily or permanently, and, if necessary, take legal action.
+
+(1) Use by Users Under 16
+Use of the App and creation of accounts by users under 16 years of age.
+
+(2) Conduct That Violates Laws or Public Morals
+Actions that violate laws, regulations, ordinances, or public morals.
+
+(3) Unauthorized Access and Misuse
+Unauthorized access to the App or systems, or unauthorized use of another user’s account.
+
+(4) Harassing and Spamming Activities
+Spamming activities or any actions that interfere with other users’ ability to use the App.
+
+(5) Infringement of Privacy or Intellectual Property Rights
+Any actions that infringe upon the privacy or intellectual property rights (such as copyrights or trademarks) of others.
+
+(6) Unauthorized Acquisition or Disclosure of Personal Information
+Acquiring, disclosing, or misusing another person’s personal information without permission.
+
+(7) Child Sexual Abuse and Exploitation
+Sharing content related to child sexual abuse or exploitation, threatening children, or any actions that endanger the safety of children.
+
+(8) Sharing of Inappropriate Audio or Content
+Sharing audio or content that is violent, discriminatory, insulting, obscene, defamatory, or otherwise contrary to public order or considered offensive.
+
+(9) Disruption of the System
+Transmitting viruses, tampering, or engaging in any other disruptive activities that adversely affect the systems or servers of the Service.
+
+(10) Unauthorized Commercial Use
+Using the App for commercial purposes or promoting commercial use without prior permission from the Operator.
+
+(11) Other Inappropriate Conduct
+Any other conduct that the Operator deems inappropriate, even if not specified above.
+
+10. Disclaimer
+
+(1) Service Suspension or Interruption
+The Operator may suspend or interrupt the service temporarily due to unavoidable circumstances such as natural disasters, system troubles, or maintenance work. The Operator shall not be liable for any damages incurred by the user in such cases.
+
+(2) Accuracy of Information
+The Operator does not guarantee the accuracy or usefulness of the information provided within the service. Users use the information at their own risk, and the Operator shall not be liable for any outcomes resulting from such use.
+
+(3) Errors and Bugs
+The Operator does not guarantee that the App will function properly in all device environments, nor does it guarantee immediate fixes in the event of a malfunction. The Operator shall not be liable for any damages resulting from malfunctions due to changes in the operating environment, etc.
+
+(4) Monitoring of Shared Content
+The Operator is not obligated to continuously monitor user content. Please understand that violations may occasionally be overlooked.
+
+(5) Disputes Between Users
+The Operator shall not be liable for any disputes arising from communication or shared content between users. Such disputes should be resolved between the users. However, if reports are made concerning child protection or clear illegal activities, the Operator will consider taking appropriate action.
+
+(6) Data Loss
+The Operator shall not be liable for any loss or damage to data related to the use of the service. It is the user’s responsibility to back up any important data.
+
+(7) Integration with External Services
+If the service is integrated with external services, the Operator does not guarantee the availability or stability of those external services, and shall not be liable for any damages arising from such integration.
+
+(8) External Links
+The Operator shall not be responsible for the content or use of external links (such as advertisement links) provided within the App. When using linked sites, please review the terms of service and privacy policies of those sites.
+
+(9) Scope of Disclaimer
+The Operator shall be exempt from liability for any direct, indirect, special, or consequential damages (including lost profits and data loss) arising from the use of the service to the maximum extent permitted by law. In the event that mandatory laws of the user’s region apply, those laws shall take precedence.
+
+11. Formation and Termination of the Electronic Contract
+
+(1) Formation of the Electronic Contract
+When a user begins using the App, it is deemed that they have agreed to these Terms, and an electronic contract has been concluded.
+
+(2) Termination of the Contract by the User
+Users may terminate the contract under these Terms by deleting their account and uninstalling the App from their device. Account deletion can be performed via the in-app settings. After deletion, the account information and related data will be deleted after the retention period specified by the Operator, and access to the service will no longer be possible. Please note that data cannot be restored after deletion.
+
+(3) Termination of the Contract by the Operator
+If a user violates these Terms or if their actions interfere with the operation of the service (such as infringing on the rights of others), the Operator reserves the right to terminate the contract and delete the account after notifying the user.
+
+(4) Termination of the Contract Due to the Termination of the Service
+If the Operator decides to terminate the entire service, it may cease service provision after notifying users in advance. In such a case, accounts and related data will be deleted in accordance with the procedures specified by the Operator, and the Operator shall not be liable for any damages arising from the termination of the service.
+
+12. Amendments and Updates
+
+(1) Changes to the Terms of Service
+The Operator may change or update these Terms as necessary. In the event of any changes, the Operator will notify users in advance of the changes and the effective date via in-app notifications or other appropriate methods. However, if the Operator determines that the changes are minor and do not disadvantage users, prior notice may be omitted.
+
+(2) Confirmation of Consent
+By continuing to use the App after any changes to the Terms, the user is deemed to have agreed to the revised Terms. If a user does not agree with the changes, they should delete their account and cease using the App.
+
+(3) Changes to the Service Content
+The Operator may change, add, suspend, or terminate the content of the services provided by the App without notice. In such cases, the Operator will, as much as possible, provide prior notification and strive to minimize any disadvantage to users.
+
+(4) Application of Changes
+Any changes will take effect from the effective date specified in the notification, and the revised Terms will apply to the use of the App thereafter.
+
+13. Governing Law and Dispute Resolution
+
+(1) Governing Law
+These Terms are governed by and interpreted in accordance with Japanese law. However, if the user qualifies as a consumer, the consumer protection laws of the user’s country of residence may apply as mandatory provisions.
+
+(2) Negotiation and Use of Alternative Dispute Resolution (ADR)
+If a dispute arises between the user and the Operator in relation to these Terms or the use of the service, the parties will first attempt to resolve it amicably through good faith negotiations. If resolution is not achieved through negotiation, the user may, at their discretion, utilize alternative dispute resolution (ADR) procedures (such as consumer mediation, arbitration, or mediation committees), and the Operator will cooperate to facilitate the smooth implementation of such procedures.
+
+(3) Jurisdiction and Legal Proceedings
+If a dispute is not resolved through the negotiations or ADR procedures described in the preceding paragraph, the Kyoto District Court in Japan shall have exclusive jurisdiction for the first instance of the dispute. However, if mandatory laws of the user’s region apply, those laws shall govern.
+
+(4) Language
+If these Terms are prepared in both Japanese and other languages, the Operator will strive to ensure that there are no discrepancies in the content; however, in the event of any contradictions or differences, the Japanese version shall prevail. Notwithstanding, if local laws in the user’s country of residence require display in the local language, the local language version may take precedence.
+
+14. Miscellaneous
+
+(1) Severability
+If any provision of these Terms is found to be invalid or unenforceable under applicable law, the validity of the remaining provisions shall not be affected.
+
+(2) Assignment of Rights and Obligations
+Users may not assign or transfer any rights or obligations under these Terms to a third party without prior written consent from the Operator. The Operator may assign or transfer rights or obligations under these Terms without notifying the user if it deems it necessary for the operation of the service.
+
+(3) Inquiries and Complaints
+For inquiries or complaints, please contact us through the in-app contact form or via email at support@otomado.com. The Operator will strive to respond and address the issue within 30 days in principle, but in some cases, it may take longer depending on the nature of the inquiry or complaint.
+
+(4) Feedback and Improvement Suggestions
+The intellectual property rights for any feedback or improvement suggestions provided by users generally belong to the user; however, the Operator may freely use such feedback for the purpose of improving the service. In principle, individual responses or compensation for feedback will not be provided.
+
+(5) Reporting of Child Protection and CSAE-related Issues
+If users discover any content or conduct related to child sexual abuse or exploitation, they should report it using the report function available on the audio listening screen, the in-app contact form, or via the support channel (support@otomado.com). Upon receiving such reports, the Operator will promptly review the matter and take necessary actions such as deleting the relevant content, restricting the usage of the involved user, and reporting to the appropriate authorities. The privacy of the reporter will be strictly protected.
+
+(6) Response to Security Incidents
+In the event of a data breach or security incident, the Operator will investigate the cause, take prompt necessary actions, and report to the users as appropriate.
+
+15. Contact Information
+
+Any questions or comments regarding these Terms should be directed to the in-app contact form or to the following email address:
+[Support Email Address: support@otomado.com]
+
+16. Effective Date and Revision Date
+
+Effective Date: November 16, 2024
+Last Revised: February 6, 2025
+
+────────────────────────────────────────
+Supplementary Clauses (For EU/EFTA/UK)
+
+These supplementary clauses are intended to supplement and reinforce these Terms for users residing in EU member states, EFTA member states (Iceland, Liechtenstein, Norway, Switzerland), and the United Kingdom (UK). The following provisions shall be interpreted in a manner favorable to the user based on the mandatory provisions of consumer protection laws and data protection laws (such as the GDPR, UK GDPR, FADP, etc.) applicable in the respective countries or regions.
+
+1. Compliance with Data Protection Laws
+ (1) The Operator shall handle users’ personal information appropriately and securely in accordance with laws such as the GDPR, UK GDPR, or FADP.
+ (2) Users have the right to exercise rights such as access, correction, deletion, restriction of processing, data portability, and the right to object. For procedures, please refer to the Privacy Policy.
+
+2. Consumer Protection and the Right of Withdrawal
+ (1) In the event of using the service or if it becomes a paid service, users have the right to be provided with clear and necessary information (such as fees, payment methods, and cancellation procedures) before concluding a contract.
+ (2) In the case of a consumer contract, users typically have a 14-day right of withdrawal (cooling-off period). Detailed procedures will be specified separately by the Operator.
+
+3. Use of ADR (Alternative Dispute Resolution) Bodies
+ (1) If a dispute between the user and the Operator is not resolved through negotiation, the user has the right to file a complaint with the European Consumer Centres Network (ECC-Net) or the ADR bodies in their respective countries.
+ (2) Residents of the United Kingdom may also utilize the UK consumer mediation system. Residents of Switzerland may resolve disputes through procedures based on the FADP or via Swiss consumer protection agencies.
+
+────────────────────────────────────────
+Supplementary Clauses (For the United States)
+
+These supplementary clauses are intended to supplement and reinforce these Terms for users residing in the United States. The provisions set forth in the following items shall be interpreted in a manner favorable to the user based on mandatory provisions of U.S. federal law, state consumer protection laws, as well as COPPA, CCPA, and other mandatory regulations.
+
+1. Child Online Privacy Protection
+ (1) This service is intended for users aged 16 and over. Although COPPA in the United States strictly regulates the collection of personal information from individuals under 13, this service addresses this by prohibiting use by anyone under 16.
+ (2) If it is found that a user under 13 is using the service, the account will be promptly deleted, and the information will be appropriately handled.
+
+2. Personal Information Protection under CCPA, etc.
+ (1) Users residing in California have additional rights under the CCPA, including the right to access, delete, and opt out. For details, please refer to the Privacy Policy.
+ (2) For users residing in other states within the United States, the consumer protection laws and privacy laws of those states will apply.
+
+3. Class Action Waiver and Arbitration Clause
+ (1) Although some state laws may limit the waiver of class actions or mandatory arbitration, these Terms, to the extent possible, prioritize individual arbitration and provide for a waiver of class actions.
+ (2) However, if any provision is deemed invalid under state law, the relevant state law shall take precedence.
+
+4. Governing Law and Dispute Resolution
+ (1) While the basic governing law for these Terms is Japanese law, for users residing in the United States, mandatory provisions of U.S. federal and state laws shall take precedence.
+ (2) In the event of a dispute, users may seek relief through the consumer protection agencies in their state of residence.
+
+────────────────────────────────────────
+Supplementary Clauses (For Canada)
+
+These supplementary clauses are intended to supplement and reinforce these Terms for users residing in Canada. The provisions set forth in the following items shall be interpreted in a manner favorable to the user based on mandatory provisions of Canadian consumer protection laws, federal law (PIPEDA), and the laws of the provinces.
+
+1. Compliance with PIPEDA and Related Provincial Laws
+ (1) The Operator shall handle users’ personal information securely in accordance with PIPEDA and provincial-level privacy laws.
+ (2) Users have the right to access, correct, delete, restrict processing, and data portability; if they wish to exercise these rights, they should follow the procedures specified by the Operator.
+
+2. Consumer Protection and the Right of Withdrawal
+ (1) Under the laws of the provinces/territories in Canada, users may be entitled to receive sufficient information when using a paid service and have the right to withdraw from the contract within a certain period.
+ (2) For details regarding the method and conditions of withdrawal, please refer to the procedures specified separately by the Operator.
+
+3. Dispute Resolution
+ (1) In the event of a dispute, users may first attempt to negotiate with the Operator.
+ (2) If resolution is not achieved, users have the right to file a complaint with the federal privacy commissioner (Office of the Privacy Commissioner of Canada) or the provincial consumer protection agencies.
+
+────────────────────────────────────────
+Supplementary Clauses (For Japan)
+
+These supplementary clauses are intended to supplement and reinforce the content of these Terms for users residing in Japan. The following provisions shall be interpreted in a manner favorable to the user based on the mandatory provisions of Japanese laws (such as the Consumer Contract Act, the Act on Specified Commercial Transactions, the Act on the Protection of Personal Information, etc.).
+
+1. Application of the Act on Specified Commercial Transactions and Other Related Laws
+ (1) In the event that paid services or paid options are introduced in the future, the Operator will clearly and appropriately provide the user with information regarding the contract details, fees, payment methods, and cancellation procedures in accordance with the Act on Specified Commercial Transactions and other related laws.
+ (2) When using paid services, users shall comply with the aforementioned information and any contract terms provided separately.
+
+2. Compliance with the Act on the Protection of Personal Information (Amended)
+ (1) The Operator shall manage users’ personal information appropriately in accordance with Japan’s Act on the Protection of Personal Information and shall not provide it to third parties without the user’s consent.
+ (2) If use beyond the scope set forth in the Privacy Policy is necessary, the Operator will obtain the user’s consent in advance.
+
+3. Use of ADR for Dispute Resolution
+ (1) In the event of a dispute arising within Japan, the parties will first attempt to resolve it through negotiations between the Operator and the user.
+ (2) If resolution through negotiation proves difficult, the use of ADR procedures, such as mediation or arbitration by a third party, will be considered as necessary.
+
+────────────────────────────────────────
+Supplementary Clauses (For Korea)
+
+These supplementary clauses are intended to supplement and reinforce these Terms for users residing in the Republic of Korea (South Korea). The Operator shall comply with mandatory Korean laws (such as the Personal Information Protection Act (PIPA) and consumer protection laws) in the provision of the App and in handling personal information.
+
+1. Compliance with the Personal Information Protection Act (PIPA)
+ (1) The Operator shall handle users’ personal information appropriately and securely in accordance with South Korea’s Personal Information Protection Act (PIPA).
+ (2) Users have the right, under PIPA, to request access to, correction of, deletion of, or suspension of the processing (i.e., usage) of their personal information. For specific procedures, please refer to the Privacy Policy or the in-app contact channel.
+ (3) If cross-border transfer of personal information becomes necessary, the Operator will, as required by Korean law, obtain the user’s consent or perform the necessary notification procedures.
+
+2. Consumer Protection and Information Provision Obligations
+ (1) In accordance with South Korean consumer protection laws, the Operator shall provide clear information to users (if they are consumers) regarding necessary details such as fees for paid options, payment conditions, and cancellation procedures, thereby ensuring the users’ legitimate rights.
+ (2) If a user wishes to exercise rights such as contract withdrawal (cooling-off), they must comply with the procedures and time periods specified under South Korean consumer protection laws.
+
+3. Dispute Resolution
+ (1) In the event of a dispute arising in connection with these supplementary clauses or the service, the user and the Operator will first endeavor to resolve it amicably through negotiation.
+ (2) If negotiations fail, the user has the right to file a complaint with South Korean consumer protection agencies (e.g., the Korea Consumer Agency) or the Personal Information Protection Commission.
+ (3) If mandatory provisions in the region where the user resides differ from these Terms or the supplementary clauses, those mandatory provisions shall take precedence.
+
+────────────────────────────────────────
+Supplementary Clauses (For India)
+
+These supplementary clauses are intended to supplement and reinforce these Terms for users residing in India. The provisions set forth in the following items shall be interpreted in a manner favorable to the user based on the mandatory provisions of the Information Technology Act, SPDI Rules, Consumer Protection Laws, etc.
+
+1. Protection of Personal Information
+ (1) The Operator shall protect users’ personal information securely in accordance with India’s IT laws and SPDI rules.
+ (2) Users have the right to access, correct, delete, restrict processing, and to lodge objections, among other rights.
+
+2. Consumer Protection and E-commerce Rules
+ (1) In the event of introducing paid services, clear information regarding the contract details, fees, payment methods, and cancellation procedures will be displayed.
+ (2) Users may have the right to withdraw from the contract within a certain period. For details, please refer to the procedures specified by the Operator.
+
+3. Dispute Resolution
+ (1) In the event of a dispute, the parties will first attempt to resolve it through negotiation.
+ (2) If a resolution is not reached, the user has the right to utilize ADR procedures, such as those provided by consumer protection agencies.
+
+────────────────────────────────────────
+Supplementary Clauses (For Brazil)
+
+These supplementary clauses are intended to supplement and reinforce these Terms for users residing in Brazil. The provisions set forth in the following items shall be interpreted in a manner favorable to the user based on the mandatory provisions of Brazil’s General Data Protection Law (LGPD) and the Consumer Defense Code (Código de Defesa do Consumidor), among other laws.
+
+1. Compliance with LGPD
+ (1) The Operator shall handle users’ personal data securely in accordance with the LGPD.
+ (2) Users have the right to access, correct, delete, restrict processing, data portability, and to object, among other rights, and if they wish to exercise these rights, they should contact the Operator.
+
+2. Consumer Protection and the Right of Withdrawal
+ (1) Under Brazil’s consumer protection laws, users have the right to receive sufficient information regarding the service content, fees, and cancellation procedures.
+ (2) In the case of a consumer contract, users have the right to withdraw within 14 days. For details, please refer to the procedures specified separately by the Operator.
+
+3. Dispute Resolution
+ (1) In the event of a dispute, the parties will first attempt to resolve it amicably through negotiation.
+ (2) If negotiations fail, users have the right to seek resolution through consumer protection agencies such as Procon or by utilizing ADR mechanisms.
+
+────────────────────────────────────────
+Supplementary Clauses (For Other Countries/Regions)
+
+These supplementary clauses are intended to supplement and reinforce these Terms for users residing in countries or regions not specifically mentioned above. The Operator will respect the data protection and consumer protection laws of the user’s country or region and will handle matters as follows:
+
+1. Protection of Personal Information
+The Operator shall comply with the data protection laws of the user’s country or region and handle the user’s personal information securely. If necessary, sufficient information regarding data collection, use, and provision to third parties will be provided to the user in advance, and the user’s consent will be obtained.
+
+2. Consumer Protection
+If a user qualifies as a consumer, the Operator will clearly present the necessary information regarding the service (such as fees, payment terms, and cancellation procedures) and will ensure that the rights to withdraw from or cancel a contract as stipulated by local laws are upheld.
+
+3. Dispute Resolution
+In the event of a dispute, the parties will first attempt to resolve it through negotiation. If negotiations fail, users may be able to utilize consumer protection agencies or alternative dispute resolution (ADR) procedures available in their country of residence. Moreover, if any provision of these Terms conflicts with mandatory laws of the user’s country of residence, those mandatory laws shall take precedence.
