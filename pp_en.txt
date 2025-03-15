@@ -42,7 +42,7 @@ When sharing audio, the App automatically obtains the device’s time zone infor
 The App records the total time a user spends streaming and hearing, and uses this information for the user to check their own activity history as well as for service improvement.
 
 (f) Audio Data
-For smooth and healthy audio sharing, the App temporarily stores the shared audio data on its server. The retention period is approximately one day, after which the data is automatically deleted.
+For smooth and healthy audio sharing, the App temporarily stores the shared audio data on its server. The retention period is approximately one day, after which the data is automatically deleted. However, if the audio is reported as inappropriate, the data will be retained for investigation purposes for 90 days before deletion.
 
 (g) Inappropriate Audio Report Information
 To maintain the health of the service, the App records the number and details of reports regarding inappropriate audio and uses this information to verify any violations of the Terms of Service.
@@ -51,7 +51,7 @@ To maintain the health of the service, the App records the number and details of
 To ensure community safety, the App records the email addresses of accounts that have been suspended.
 
 (i) Inquiry Information
-For user support purposes, the App records inquiry details, the time of submission, and the sender’s email address.
+For user support purposes, the App records inquiry details, the time of submission, the sender’s email address, and the device's language settings.
 
 (j) App Usage and Crash Information
  • Firebase Analytics: Collected to analyze App usage and user behavior for the purpose of improving the App (only non-personally identifiable data is collected).
@@ -140,7 +140,8 @@ If disclosure of information is required by law or if it is deemed necessary to 
  • Inquiry details are retained for up to one year after support responses are completed, and then deleted.
 
 (c) Audio Data Stored in Firebase Storage
- • Audio data is stored during streaming and is automatically deleted approximately one day after streaming ends.
+ •Audio data is stored during streaming and is automatically deleted approximately one day after streaming ends.
+ •If the audio is reported as inappropriate, the data will be retained for investigation purposes for 90 days before deletion.
 
 (d) Data Collected by Firebase Analytics and Crashlytics
  • Data is collected in a non-personally identifiable manner and retained in accordance with Google’s policies.
@@ -238,4 +239,4 @@ For any questions, comments, or inquiries regarding this Privacy Policy or the h
 11. Effective Date and Revision Date
 
 Effective Date: November 16, 2024
-Last Revised: February 6, 2025
+Last Revised: March 15, 2025
